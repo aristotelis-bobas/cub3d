@@ -1,0 +1,18 @@
+R 1600 900
+NO ./textures/texture_north.xpm
+F ./textures/floor.xpm
+SO ./textures/texture_south.xpm
+WE ./textures/texture_west.xpm
+EA ./textures/texture_east.xpm
+S ./textures/aracnor.xpm
+C ./textures/ceiling.xpm
+SG ./textures/shotgun.xpm
+M ./textures/medkit.xpm
+
+1111111
+1400001
+1000001
+1000001
+1000001
+1N60001
+1111111
