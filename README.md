@@ -2,14 +2,9 @@
 
 Project for Codam (42 Network)
 
-Assignment: writing a game engine using a raycaster, inspired by the original Wolfenstein.
-
-One of the more fun assignments as the resulting product was an actual playable game.
-The game engine uses a raycaster to render the environment.
-I have added gameplay elements like picking up weapons, sound effects, damage mechanics, a minimap, enemies with basic AI, healing by picking up medkits and a boss level.
-
-The mandatory MiniLibX library was used for all graphical system instructions, this unfortunately causes limited to zero portability.
-
+- Assignment: writing a game engine using a raycaster, inspired by the original Wolfenstein.
+- Notes: Bonus assignment consisted of adding gameplay elements to the engine; I implemented picking up weapons, sound effects, damage mechanics, a minimap, enemy movement (basic AI), healing by picking up medkits and a boss level.
+- Notes: It was mandatory to use the MiniLibX library for all graphical system instructions, this unfortunately causes very limited portability.
 - Grade: 115%
 - Date: 26 February 2020
 
