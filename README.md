@@ -6,7 +6,7 @@ Assignment: writing a game engine using a raycaster, inspired by the original Wo
 
 One of the more fun assignments as the resulting product was an actual playable game.
 The game engine uses a raycaster to render the environment.
-I have added gameplay elements like picking up weapons, damage mechanics, a minimap, enemies with basic AI, healing by picking up medkits and a boss level. 
+I have added gameplay elements like picking up weapons, sound effects, damage mechanics, a minimap, enemies with basic AI, healing by picking up medkits and a boss level. 
 
 - Grade: 115%
 - Date: 26 February 2020
