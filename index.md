@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# ft_cub3d
 
-You can use the [editor on GitHub](https://github.com/abobas/ft_cub3d/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Project for Codam (42 Network)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Assignment: writing a game engine using a raycaster in C, inspired by the original Wolfenstein 3D engine
+- Notes: Added the following gameplay elements to the engine; picking up weapons, sound effects, damage mechanics, a minimap, enemy movement (basic AI), medkits, boss level
+- MiniLibX library: the MiniLibX library functions as an API for all graphical instructions (Metal based)
+- Grade: 115%
+- Date: 26 February 2020
 
-### Markdown
+![Image](https://i.ibb.co/N9bskLS/Screen-Shot-2020-09-03-at-8-29-38-PM.png)
+![Image2](https://i.ibb.co/yfGzq6y/Screen-Shot-2020-09-03-at-8-35-44-PM.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abobas/ft_cub3d/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
