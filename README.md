@@ -3,7 +3,7 @@
 Project for Codam (42 Network)
 
 - Assignment: writing a game engine using a raycaster in C, inspired by the original Wolfenstein 3D
-- Notes: Bonus assignment consisted of adding gameplay elements to the engine; I implemented picking up weapons, sound effects, damage mechanics, a minimap, enemy movement (basic AI), healing by picking up medkits and a boss level
+- Notes: Added the following gameplay elements to the engine; picking up weapons, sound effects, damage mechanics, a minimap, enemy movement (basic AI), medkits, boss level
 - Grade: 115%
 - Date: 26 February 2020
 
