@@ -2,7 +2,7 @@
 
 Project for Codam (42 Network)
 
-- Assignment: writing a game engine using a raycaster in C, inspired by the original Wolfenstein 3D
+- Assignment: writing a game engine using a raycaster in C, inspired by the original Wolfenstein 3D engine
 - Notes: Added the following gameplay elements to the engine; picking up weapons, sound effects, damage mechanics, a minimap, enemy movement (basic AI), medkits, boss level
 - Grade: 115%
 - Date: 26 February 2020
