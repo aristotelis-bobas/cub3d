@@ -1,5 +1,3 @@
-# ft_cub3d
-
 Project for Codam (42 Network)
 
 - Assignment: writing a game engine using a raycaster in C, inspired by the original Wolfenstein 3D engine
