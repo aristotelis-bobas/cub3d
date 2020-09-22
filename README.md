@@ -2,13 +2,14 @@
 
 ## Project
 
-This was a project for Codam (42 Network).
-The assignment consisted of writing a raycaster to render a 3D environment using the MiniLibX (MLX) library for graphical instructions. The engine is based on the original Wolfenstein 3D, and rendered from a 2D map.
-I finished the project on 26 February 2020 with a grade of 115%.
+This is a project for Codam (42 Network). <br>
+The assignment consisted of writing a ray casting engine, rendering a 3D environment from a 2D map. <br>
+The MiniLibX library is used as an API for the graphical instructions. 
 
 ## Gameplay
 
-I chose to add the following gameplay elements to the engine; 
+As a bonus assignment I chose to add the following gameplay elements to the engine:
+
 - picking up weapons
 - sound effects
 - damage mechanics
@@ -16,6 +17,8 @@ I chose to add the following gameplay elements to the engine;
 - enemy movement (basic AI)
 - medkits
 - boss level
+
+## Screenshots
 
 <p align="center">
   <img width="960" height="540" src="https://i.ibb.co/N9bskLS/Screen-Shot-2020-09-03-at-8-29-38-PM.png">
