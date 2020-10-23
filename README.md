@@ -4,8 +4,6 @@ This is a project for Codam (42 Network). <br>
 The assignment consisted of writing a ray casting engine, rendering a 3D environment from a 2D map. <br>
 The MiniLibX library is used as an API for the graphical instructions.
 
-I finished the project on 26/2/2020 with a grade of 115%.
-
 ## Gameplay
 
 As a bonus assignment I chose to add the following gameplay elements to the engine:
