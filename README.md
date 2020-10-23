@@ -1,7 +1,5 @@
 # cub3D
 
-## Project
-
 This is a project for Codam (42 Network). <br>
 The assignment consisted of writing a ray casting engine, rendering a 3D environment from a 2D map. <br>
 The MiniLibX library is used as an API for the graphical instructions.
